@@ -1,3 +1,4 @@
-controllers:
-    resource: ../src/Controller/
-    type: attribute
+# homepage method of QuestionController class should be executed at "/"
+# index:
+#     path: /
+#     controller: App\Controller\QuestionController::homepage
